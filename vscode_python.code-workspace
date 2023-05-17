@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "vscode_python",
+			"path": "C:/Users/admin/Documents/vscode_python"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			"lib"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.32.jar"
+		],
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"liveServer.settings.multiRootWorkspaceName": "demo",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
